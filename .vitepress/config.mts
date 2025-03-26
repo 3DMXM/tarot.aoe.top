@@ -20,7 +20,7 @@ export default defineConfig({
         ]
     },
     sitemap: {
-        hostname: 'tarot.aoe.top'
+        hostname: 'https://tarot.aoe.top'
     },
     // plugins: [vercel()],
 })
