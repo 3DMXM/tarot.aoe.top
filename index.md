@@ -10,9 +10,9 @@ hero:
     - theme: brand
       text: 大奥秘
       link: /MajorArcana
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 
 # features:
 #   - title: 介绍
