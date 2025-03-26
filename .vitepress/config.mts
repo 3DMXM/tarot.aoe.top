@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { generateSidebar } from 'vitepress-sidebar';
-
+// import vercel from 'vite-plugin-vercel';
 
 
 // https://vitepress.dev/reference/site-config
@@ -21,6 +21,7 @@ export default defineConfig({
     },
     sitemap: {
         hostname: 'tarot.aoe.top'
-    }
+    },
+    // plugins: [vercel()],
 })
 

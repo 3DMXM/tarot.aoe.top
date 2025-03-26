@@ -9,6 +9,7 @@
     "yarn": "^1.22.22"
   },
   "devDependencies": {
+    "vite-plugin-vercel": "^9.0.5",
     "vitepress": "^1.6.3"
   }
 }
