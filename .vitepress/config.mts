@@ -14,7 +14,9 @@ export default defineConfig({
             { text: '大奥秘', link: '/MajorArcana' }
         ],
 
-        sidebar: generateSidebar({}),
+        sidebar: generateSidebar({
+            useTitleFromFileHeading: true
+        }),
         socialLinks: [
             { icon: 'github', link: 'https://github.com/3DMXM/tarot.aoe.top' }
         ]
@@ -22,6 +24,5 @@ export default defineConfig({
     sitemap: {
         hostname: 'https://tarot.aoe.top'
     },
-    // plugins: [vercel()],
 })
 
