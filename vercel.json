@@ -9,5 +9,17 @@
                 }
             ]
         }
+    ],
+    "routes": [
+        {
+            "src": [
+                {
+                    "src": "/[^.]+",
+                    "dest": "/",
+                    "status": 200
+                }
+            ],
+            "dest": "/index.html"
+        }
     ]
 }
