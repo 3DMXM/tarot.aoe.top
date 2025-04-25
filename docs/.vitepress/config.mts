@@ -1,25 +1,30 @@
 import { defineConfig } from 'vitepress'
 import { generateSidebar } from 'vitepress-sidebar';
-// import vercel from 'vite-plugin-vercel';
+
+import { withMermaid } from "vitepress-plugin-mermaid"
 
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default withMermaid({
     title: "奥秘塔罗牌",
-    description: "A VitePress Site",
+    description: "生命是一个无止境的展开的过程。如果我们愿意，它也是一个不断自我发现过程",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: '首页', link: '/' },
-            { text: '大奥秘', link: '/MajorArcana' }
+            { text: '大奥秘', link: '/MajorArcana/0.TheFool.md' },
+            { text: '牌阵', link: '/TarotSpread/1.Time.md' }
+
         ],
 
         sidebar: generateSidebar({
             useTitleFromFileHeading: true,
+            collapsed: true,
+            documentRootPath: '/docs',
             sortFolderTo: 'bottom',
             useFolderTitleFromIndexFile: true,
-            includeFolderIndexFile: true,
-            collapsed: true,
+            includeFolderIndexFile: false,
+            sortMenusOrderNumericallyFromLink: true,
         }),
         socialLinks: [
             { icon: 'github', link: 'https://github.com/3DMXM/tarot.aoe.top' }
@@ -38,6 +43,11 @@ export default defineConfig({
                 timeStyle: 'medium'
             }
         },
+        footer: {
+            message: '基于 MIT 许可发布',
+            copyright: `版权所有 © 2025-${new Date().getFullYear()} 小莫 <br/> 
+            <a href="https://beian.miit.gov.cn/" target="_blank" rel="nopener norefoerrer" data-v-a41d4df4="">湘ICP备2021011453号-1</a>`,
+        },
         docFooter: {
             prev: '上一页',
             next: '下一页'
@@ -46,7 +56,7 @@ export default defineConfig({
             label: '页面导航'
         },
     },
-    head:[
+    head: [
         [
             'script',
             {
