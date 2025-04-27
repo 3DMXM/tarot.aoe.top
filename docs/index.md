@@ -9,7 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 大奥秘
-      link: /MajorArcana
+      link: /MajorArcana/0.TheFool.md
+    - theme: alt
+      text: 小奥秘
+      link: /suit/1.wands/wands1.md
     - theme: alt
       text: 牌阵
       link: /TarotSpread/1.Time.md

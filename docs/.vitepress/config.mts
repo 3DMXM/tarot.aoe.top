@@ -13,7 +13,8 @@ export default withMermaid({
         nav: [
             { text: '首页', link: '/' },
             { text: '大奥秘', link: '/MajorArcana/0.TheFool.md' },
-            { text: '牌阵', link: '/TarotSpread/1.Time.md' }
+            { text: '小奥秘', link: '/suit/1.wands/wands1.md' },
+            { text: '牌阵', link: '/suit/1.wands/wands1.md' }
 
         ],
 
@@ -55,6 +56,9 @@ export default withMermaid({
         outline: {
             label: '页面导航'
         },
+    },
+    markdown: {
+        breaks: true
     },
     head: [
         [

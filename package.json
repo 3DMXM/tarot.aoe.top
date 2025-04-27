@@ -5,6 +5,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
+    "@giscus/vue": "^3.1.1",
     "vitepress-sidebar": "^1.31.1",
     "yarn": "^1.22.22"
   },
@@ -12,6 +13,7 @@
     "mermaid": "^11.6.0",
     "vite-plugin-vercel": "^9.0.5",
     "vitepress": "^1.6.3",
+    "vitepress-plugin-image-viewer": "^1.1.6",
     "vitepress-plugin-mermaid": "^2.0.17"
   }
 }
