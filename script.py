@@ -77,7 +77,7 @@ def process_single_file(file_path):
 if __name__ == "__main__":
     
     # 处理指定的文件
-    file_path = "docs\\suit\\2.cups"
+    file_path = "docs\\suit\\4.pentacles"
     if os.path.isfile(file_path) and file_path.endswith('.md'):
         process_single_file(file_path)
     elif os.path.isdir(file_path):
