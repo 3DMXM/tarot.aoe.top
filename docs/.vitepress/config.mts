@@ -12,8 +12,8 @@ export default withMermaid({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: '首页', link: '/' },
-            { text: '大奥秘', link: '/MajorArcana/0.TheFool.md' },
-            { text: '小奥秘', link: '/suit/1.wands/wands1.md' },
+            { text: '大阿卡那', link: '/MajorArcana/0.TheFool.md' },
+            { text: '小阿卡那', link: '/MinorArcana/1.wands/wands1.md' },
             { text: '牌阵', link: '/suit/1.wands/wands1.md' }
 
         ],
