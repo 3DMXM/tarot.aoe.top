@@ -1,6 +1,6 @@
 # 星币 侍从
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/p11.webp)
+![](/tarot/images/p11.webp)
 
 ## 介绍
 

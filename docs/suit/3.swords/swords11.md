@@ -1,6 +1,6 @@
 # 宝剑 侍从
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/s11.webp)
+![](/tarot/images/s11.webp)
 
 ## 介绍
 

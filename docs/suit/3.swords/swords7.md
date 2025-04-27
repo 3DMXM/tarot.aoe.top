@@ -1,6 +1,6 @@
 # 宝剑 七
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/s7.webp)
+![](/tarot/images/s7.webp)
 
 ## 介绍
 

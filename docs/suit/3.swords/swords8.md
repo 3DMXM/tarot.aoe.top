@@ -1,6 +1,6 @@
 # 宝剑 八
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/s8.webp)
+![](/tarot/images/s8.webp)
 
 ## 介绍
 

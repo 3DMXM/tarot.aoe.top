@@ -1,6 +1,6 @@
 # 权杖 王后
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/w13.webp)
+![](/tarot/images/w13.webp)
 
 ## 介绍
 

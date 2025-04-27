@@ -1,6 +1,6 @@
 # 星币 国王
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/p14.webp)
+![](/tarot/images/p14.webp)
 
 ## 介绍
 

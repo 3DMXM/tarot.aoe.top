@@ -63,18 +63,6 @@ export default withMermaid({
     head: [
         [
             'script',
-            {
-                async: "true",
-                src: 'https://www.googletagmanager.com/gtag/js?id=G-L04H04RSS7',
-            },
-        ],
-        [
-            'script',
-            {},
-            "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-L04H04RSS7');",
-        ],
-        [
-            'script',
             {},
             `var _hmt = _hmt || [];
             (function() {
@@ -83,13 +71,6 @@ export default withMermaid({
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();`
-        ],
-        [
-            'script',
-            {
-                "async": "true",
-                'src': 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5978423097771370',
-            }
         ],
         [
             'link',

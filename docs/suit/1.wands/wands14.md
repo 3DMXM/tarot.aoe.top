@@ -1,6 +1,6 @@
 # 权杖 国王
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/w14.webp)
+![](/tarot/images/w14.webp)
 
 ## 介绍
 

@@ -1,6 +1,6 @@
 # 宝剑 九
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/s9.webp)
+![](/tarot/images/s9.webp)
 
 ## 介绍
 

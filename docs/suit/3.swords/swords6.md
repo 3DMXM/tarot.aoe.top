@@ -1,6 +1,6 @@
 # 宝剑 六
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/s6.webp)
+![](/tarot/images/s6.webp)
 
 ## 介绍
 

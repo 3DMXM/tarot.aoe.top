@@ -1,6 +1,6 @@
 # 星币 九
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/p9.webp)
+![](/tarot/images/p9.webp)
 
 ## 介绍
 

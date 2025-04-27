@@ -1,6 +1,6 @@
 # 宝剑 国王
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/s14.webp)
+![](/tarot/images/s14.webp)
 
 ## 介绍
 

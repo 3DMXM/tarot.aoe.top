@@ -1,6 +1,6 @@
 # 星币 王后
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/p13.webp)
+![](/tarot/images/p13.webp)
 
 ## 介绍
 

@@ -1,6 +1,6 @@
 # 星币 六
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/p6.webp)
+![](/tarot/images/p6.webp)
 
 ## 介绍
 

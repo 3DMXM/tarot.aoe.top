@@ -1,6 +1,6 @@
 # 星币 七
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/p7.webp)
+![](/tarot/images/p7.webp)
 
 ## 介绍
 

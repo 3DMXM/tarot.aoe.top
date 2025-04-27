@@ -1,6 +1,6 @@
 # 宝剑 三
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/s3.webp)
+![](/tarot/images/s3.webp)
 
 ## 介绍
 

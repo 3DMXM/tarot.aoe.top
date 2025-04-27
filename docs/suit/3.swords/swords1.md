@@ -1,6 +1,6 @@
 # 宝剑 一
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/s1.webp)
+![](/tarot/images/s1.webp)
 
 ## 介绍
 

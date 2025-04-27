@@ -1,6 +1,6 @@
 # 宝剑 王后
 
-![](https://www.tarotchina.net/wp-content/uploads/2024/01/s13.webp)
+![](/tarot/images/s13.webp)
 
 ## 介绍
 
