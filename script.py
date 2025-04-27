@@ -8,13 +8,13 @@ def convert_to_markdown_format(text):
     h2_titles = ['正位牌意', '逆位牌意']
     for title in h2_titles:
         pattern = r'(?<!\#)(?<!\#\s)' + re.escape(title) + r'(?!\#)'
-        text = re.sub(pattern, f'## {title}', text)
+        text = re.sub(pattern, f'\n\n## {title}', text)
     
     # 将指定标题转换为H3
     h3_titles = ['含义', '关键要素', '基本牌意', '爱情婚姻', '事业学业', '人际财富']
     for title in h3_titles:
         pattern = r'(?<!\#)(?<!\#\s)' + re.escape(title) + r'(?!\#)'
-        text = re.sub(pattern, f'### {title}', text)
+        text = re.sub(pattern, f'\n### {title}', text)
     
     # 将"要素|解释"和"象征|释义"转换为表格格式
     # 查找形如"要素|解释"的行
@@ -75,19 +75,13 @@ def process_single_file(file_path):
         print(f"处理文件 {file_path} 时出错: {e}")
 
 if __name__ == "__main__":
-    import sys
     
-    if len(sys.argv) > 1:
-        # 处理指定的文件
-        file_path = "\\docs\\suit\\1.wands\\wands13.md"
-        if os.path.isfile(file_path) and file_path.endswith('.md'):
-            process_single_file(file_path)
-        elif os.path.isdir(file_path):
-            process_markdown_files(file_path)
-        else:
-            print(f"错误: {file_path} 不是有效的Markdown文件或目录")
+    # 处理指定的文件
+    file_path = "docs\\suit\\1.wands\\wands14.md"
+    if os.path.isfile(file_path) and file_path.endswith('.md'):
+        process_single_file(file_path)
+    elif os.path.isdir(file_path):
+        process_markdown_files(file_path)
     else:
-        # 处理当前目录下的所有Markdown文件
-        current_dir = os.getcwd()
-        process_markdown_files(current_dir)
-        print(f"已处理目录: {current_dir}")
+        print(f"错误: {file_path} 不是有效的Markdown文件或目录")
+    
