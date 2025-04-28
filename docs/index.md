@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: 牌阵
       link: /TarotSpread/1.Time.md
+    - theme: alt
+      text: 抽牌
+      link: /z.Actions/RandomTarotCard.html
 
 ---
 
