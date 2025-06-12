@@ -1,6 +1,6 @@
 # 星币 王后
 
-![](/tarot/images/p13.webp)
+![](https://p.aoe.top/cdn/tarot/images/p13.webp)
 
 ## 介绍
 

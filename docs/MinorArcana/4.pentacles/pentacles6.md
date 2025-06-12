@@ -1,6 +1,6 @@
 # 星币 六
 
-![](/tarot/images/p6.webp)
+![](https://p.aoe.top/cdn/tarot/images/p6.webp)
 
 ## 介绍
 

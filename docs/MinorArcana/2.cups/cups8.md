@@ -1,6 +1,6 @@
 # 圣杯 八
 
-![](/tarot/images/c8.webp)
+![](https://p.aoe.top/cdn/tarot/images/c8.webp)
 
 ## 介绍
 

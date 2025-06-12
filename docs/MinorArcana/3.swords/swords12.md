@@ -1,6 +1,6 @@
 # 宝剑 骑士
 
-![](/tarot/images/s12.webp)
+![](https://p.aoe.top/cdn/tarot/images/s12.webp)
 
 ## 介绍
 

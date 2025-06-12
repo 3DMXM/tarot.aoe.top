@@ -1,6 +1,6 @@
 # 权杖 三
 
-![](/tarot/images/w3.webp)
+![](https://p.aoe.top/cdn/tarot/images/w3.webp)
 
 ## 介绍
 

@@ -1,6 +1,6 @@
 # 权杖 骑士
 
-![](/tarot/images/w12.webp)
+![](https://p.aoe.top/cdn/tarot/images/w12.webp)
 
 ## 介绍
 

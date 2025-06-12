@@ -1,6 +1,6 @@
 # 权杖 八
 
-![](/tarot/images/w8.webp)
+![](https://p.aoe.top/cdn/tarot/images/w8.webp)
 
 ## 介绍
 

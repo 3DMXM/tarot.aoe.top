@@ -1,6 +1,6 @@
 # 权杖 九
 
-![](/tarot/images/w9.webp)
+![](https://p.aoe.top/cdn/tarot/images/w9.webp)
 
 ## 介绍
 

@@ -1,6 +1,6 @@
 # 宝剑 国王
 
-![](/tarot/images/s14.webp)
+![](https://p.aoe.top/cdn/tarot/images/s14.webp)
 
 ## 介绍
 

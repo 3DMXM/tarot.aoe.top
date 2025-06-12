@@ -1,6 +1,6 @@
 # 权杖 国王
 
-![](/tarot/images/w14.webp)
+![](https://p.aoe.top/cdn/tarot/images/w14.webp)
 
 ## 介绍
 

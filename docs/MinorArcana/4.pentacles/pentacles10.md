@@ -1,6 +1,6 @@
 # 星币 十
 
-![](/tarot/images/p10.webp)
+![](https://p.aoe.top/cdn/tarot/images/p10.webp)
 
 ## 介绍
 

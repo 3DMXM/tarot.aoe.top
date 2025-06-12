@@ -1,6 +1,6 @@
 # 星币 九
 
-![](/tarot/images/p9.webp)
+![](https://p.aoe.top/cdn/tarot/images/p9.webp)
 
 ## 介绍
 

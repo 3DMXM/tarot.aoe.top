@@ -1,6 +1,6 @@
 # 权杖 王后
 
-![](/tarot/images/w13.webp)
+![](https://p.aoe.top/cdn/tarot/images/w13.webp)
 
 ## 介绍
 

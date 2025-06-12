@@ -1,6 +1,6 @@
 # 圣杯 骑士
 
-![](/tarot/images/c12.webp)
+![](https://p.aoe.top/cdn/tarot/images/c12.webp)
 
 ## 介绍
 

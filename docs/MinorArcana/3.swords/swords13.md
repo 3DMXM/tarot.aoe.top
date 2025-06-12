@@ -1,6 +1,6 @@
 # 宝剑 王后
 
-![](/tarot/images/s13.webp)
+![](https://p.aoe.top/cdn/tarot/images/s13.webp)
 
 ## 介绍
 

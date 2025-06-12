@@ -1,6 +1,6 @@
 # 权杖 四
 
-![](/tarot/images/w4.webp)
+![](https://p.aoe.top/cdn/tarot/images/w4.webp)
 
 ## 介绍
 

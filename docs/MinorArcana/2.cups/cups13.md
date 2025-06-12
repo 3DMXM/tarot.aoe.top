@@ -1,6 +1,6 @@
 # 圣杯 王后
 
-![](/tarot/images/c13.webp)
+![](https://p.aoe.top/cdn/tarot/images/c13.webp)
 
 ## 介绍
 

@@ -1,6 +1,6 @@
 # 权杖 五
 
-![](/tarot/images/w5.webp)
+![](https://p.aoe.top/cdn/tarot/images/w5.webp)
 
 ## 介绍
 

@@ -1,6 +1,6 @@
 # 权杖 六
 
-![](/tarot/images/w6.webp)
+![](https://p.aoe.top/cdn/tarot/images/w6.webp)
 
 ## 介绍
 

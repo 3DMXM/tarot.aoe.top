@@ -1,6 +1,6 @@
 # 宝剑 八
 
-![](/tarot/images/s8.webp)
+![](https://p.aoe.top/cdn/tarot/images/s8.webp)
 
 ## 介绍
 

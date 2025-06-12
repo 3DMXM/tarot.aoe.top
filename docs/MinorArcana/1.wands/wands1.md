@@ -1,6 +1,6 @@
 # 权杖 一
 
-![](/tarot/images/w1.webp)
+![](https://p.aoe.top/cdn/tarot/images/w1.webp)
 
 ## 介绍
 

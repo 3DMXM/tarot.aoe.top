@@ -1,6 +1,6 @@
 # 宝剑 二
 
-![](/tarot/images/s2.webp)
+![](https://p.aoe.top/cdn/tarot/images/s2.webp)
 
 ## 介绍
 

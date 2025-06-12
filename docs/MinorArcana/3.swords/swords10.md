@@ -1,6 +1,6 @@
 # 宝剑 十
 
-![](/tarot/images/s10.webp)
+![](https://p.aoe.top/cdn/tarot/images/s10.webp)
 
 ## 介绍
 

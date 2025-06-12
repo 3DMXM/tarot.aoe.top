@@ -1,6 +1,6 @@
 # 权杖 侍从
 
-![](/tarot/images/w11.webp)
+![](https://p.aoe.top/cdn/tarot/images/w11.webp)
 
 ## 介绍
 

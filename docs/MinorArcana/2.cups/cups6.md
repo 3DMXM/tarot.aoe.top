@@ -1,6 +1,6 @@
 # 圣杯 六
 
-![](/tarot/images/c6.webp)
+![](https://p.aoe.top/cdn/tarot/images/c6.webp)
 
 ## 介绍
 

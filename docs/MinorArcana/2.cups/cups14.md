@@ -1,6 +1,6 @@
 # 圣杯 国王
 
-![](/tarot/images/c14.webp)
+![](https://p.aoe.top/cdn/tarot/images/c14.webp)
 
 ## 介绍
 

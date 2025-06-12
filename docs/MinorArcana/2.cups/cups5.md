@@ -1,6 +1,6 @@
 # 圣杯 五
 
-![](/tarot/images/c5.webp)
+![](https://p.aoe.top/cdn/tarot/images/c5.webp)
 
 ## 介绍
 

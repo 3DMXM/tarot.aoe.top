@@ -1,6 +1,6 @@
 # 星币 七
 
-![](/tarot/images/p7.webp)
+![](https://p.aoe.top/cdn/tarot/images/p7.webp)
 
 ## 介绍
 

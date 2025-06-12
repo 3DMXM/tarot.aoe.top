@@ -1,6 +1,6 @@
 # 星币 骑士
 
-![](/tarot/images/p12.webp)
+![](https://p.aoe.top/cdn/tarot/images/p12.webp)
 
 ## 介绍
 

@@ -1,6 +1,6 @@
 # 圣杯 十
 
-![](/tarot/images/c10.webp)
+![](https://p.aoe.top/cdn/tarot/images/c10.webp)
 
 ## 介绍
 

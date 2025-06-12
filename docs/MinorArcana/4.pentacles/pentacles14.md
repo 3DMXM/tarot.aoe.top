@@ -1,6 +1,6 @@
 # 星币 国王
 
-![](/tarot/images/p14.webp)
+![](https://p.aoe.top/cdn/tarot/images/p14.webp)
 
 ## 介绍
 

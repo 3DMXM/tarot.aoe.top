@@ -1,6 +1,6 @@
 # 权杖 七
 
-![](/tarot/images/w7.webp)
+![](https://p.aoe.top/cdn/tarot/images/w7.webp)
 
 ## 介绍
 

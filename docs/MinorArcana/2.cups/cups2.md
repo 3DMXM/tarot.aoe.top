@@ -1,6 +1,6 @@
 # 圣杯 二
 
-![](/tarot/images/c2.webp)
+![](https://p.aoe.top/cdn/tarot/images/c2.webp)
 
 ## 介绍
 

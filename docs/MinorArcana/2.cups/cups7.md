@@ -1,6 +1,6 @@
 # 圣杯 七
 
-![](/tarot/images/c7.webp)
+![](https://p.aoe.top/cdn/tarot/images/c7.webp)
 
 ## 介绍
 

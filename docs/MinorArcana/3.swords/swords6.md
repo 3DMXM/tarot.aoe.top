@@ -1,6 +1,6 @@
 # 宝剑 六
 
-![](/tarot/images/s6.webp)
+![](https://p.aoe.top/cdn/tarot/images/s6.webp)
 
 ## 介绍
 

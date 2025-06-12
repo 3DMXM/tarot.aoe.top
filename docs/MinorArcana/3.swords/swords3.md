@@ -1,6 +1,6 @@
 # 宝剑 三
 
-![](/tarot/images/s3.webp)
+![](https://p.aoe.top/cdn/tarot/images/s3.webp)
 
 ## 介绍
 

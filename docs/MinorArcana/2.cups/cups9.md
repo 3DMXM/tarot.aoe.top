@@ -1,6 +1,6 @@
 # 圣杯 九
 
-![](/tarot/images/c9.webp)
+![](https://p.aoe.top/cdn/tarot/images/c9.webp)
 
 ## 介绍
 

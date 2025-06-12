@@ -1,6 +1,6 @@
 # 宝剑 侍从
 
-![](/tarot/images/s11.webp)
+![](https://p.aoe.top/cdn/tarot/images/s11.webp)
 
 ## 介绍
 

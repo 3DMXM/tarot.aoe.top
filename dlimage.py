@@ -2,7 +2,7 @@ import requests
 import os
 from pathlib import Path
 
-image_url = "/tarot/images/{x}.webp"
+image_url = "https://p.aoe.top/cdn/tarot/images/{x}.webp"
 
 # 定义所有需要下载的图片代码
 image_codes = []

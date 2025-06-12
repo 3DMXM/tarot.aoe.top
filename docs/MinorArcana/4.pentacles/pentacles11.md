@@ -1,6 +1,6 @@
 # 星币 侍从
 
-![](/tarot/images/p11.webp)
+![](https://p.aoe.top/cdn/tarot/images/p11.webp)
 
 ## 介绍
 

@@ -1,6 +1,6 @@
 # 圣杯 侍从
 
-![](/tarot/images/c11.webp)
+![](https://p.aoe.top/cdn/tarot/images/c11.webp)
 
 ## 介绍
 

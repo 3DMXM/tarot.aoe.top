@@ -1,6 +1,6 @@
 # 宝剑 七
 
-![](/tarot/images/s7.webp)
+![](https://p.aoe.top/cdn/tarot/images/s7.webp)
 
 ## 介绍
 

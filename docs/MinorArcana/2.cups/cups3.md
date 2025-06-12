@@ -1,6 +1,6 @@
 # 圣杯 三
 
-![](/tarot/images/c3.webp)
+![](https://p.aoe.top/cdn/tarot/images/c3.webp)
 
 ## 介绍
 

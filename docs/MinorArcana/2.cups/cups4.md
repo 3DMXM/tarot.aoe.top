@@ -1,6 +1,6 @@
 # 圣杯 四
 
-![](/tarot/images/c4.webp)
+![](https://p.aoe.top/cdn/tarot/images/c4.webp)
 
 ## 介绍
 

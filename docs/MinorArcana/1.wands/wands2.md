@@ -1,6 +1,6 @@
 # 权杖 二
 
-![](/tarot/images/w2.webp)
+![](https://p.aoe.top/cdn/tarot/images/w2.webp)
 
 ## 介绍
 

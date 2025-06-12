@@ -1,6 +1,6 @@
 # 宝剑 九
 
-![](/tarot/images/s9.webp)
+![](https://p.aoe.top/cdn/tarot/images/s9.webp)
 
 ## 介绍
 
